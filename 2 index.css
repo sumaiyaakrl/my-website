@@ -1,0 +1,60 @@
+body {
+	margin:0;
+	padding:0;
+}
+h1 {
+	font-size:50px;
+}
+#sumaiya {
+	color:orange;
+	font-size:70px;
+}
+.lima { 
+display:flex;
+}
+.half-width {
+	width:50%;
+	padding:2%;
+}
+.text-btn {
+	text-decoration:none;
+	background-image:linear-gradient(magenta,blue);
+	color:white;
+	font-weight:700;
+	padding:10px 40px;
+	border-radius:20px;
+}
+.dinu {
+	display:flex;
+}
+h2 {
+	color:blue;
+}
+.top-banner {
+	background-image:url(imeges/top-banner.png);
+	background-repeat:no-repeat;
+}
+.dream-bg {
+	background-image:url(imeges/dream-bg.png);
+	background-repeat:no-repeat;
+	background-position:right;
+}
+.experience-item {
+	width:40%;
+	margin-left:5%;
+	padding-left:20px;
+	box-shadow:10px 10px 40px gray;
+	border-radius:10px;
+	border-left:7px solid royalblue;
+}
+#fld {
+	border-left:7px solid orangered;
+}
+.exp-bg {
+	background-image:url(imeges/tik.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+.mahin {
+	margin:20px auto;
+}
